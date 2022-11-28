@@ -1,0 +1,2562 @@
+/*******************************************************************************************************Mobile-Responsive*****************************************************************************************************************************************/
+@media only screen and (min-device-width: 801px) and (max-device-width: 892px) {
+  .login-dropdown{
+    left: -250px !important;
+    right: 40%;
+}
+.footer4 .footer_image{
+  width: 50% !important;
+}
+}
+@media only screen and (min-device-width: 300px) and (max-device-width: 800px) {
+.btn-order{
+  width: 165px;
+  height: 45px
+} 
+.btn-trail{
+  height: 45px;
+}
+ .nav-item .login-dropdown{
+  left: -187px !important;
+ }
+ .dedicated-server-game-content,
+ .row.game-content-row {
+    background-repeat: no-repeat;
+    background-size: 108%;
+    background-image: url(../images/Group-2811-2.png);
+    background-position: bottom;
+}
+
+  .custom-nav-tabs li {
+  padding: 0px 0px;
+}
+.review_card:after {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    right: 9px;
+    top: 0px;
+    margin: -3px !important;
+    background-image: linear-gradient(to right, transparent 25%, #ec421c 100%);
+    filter: blur(4px);
+    border-radius: 10px;
+}
+
+  .carousel-item h2 {
+    font-size: 40px;
+    line-height: 35px;
+  }
+  .img.header-flag {
+    height: 30px;
+  }
+ 
+  .header-carousel {
+    padding-left: 0;
+  }
+  .money-back {
+    font-size: 21px;
+    color: #ffffff;
+    font-weight: 600;
+  }
+  .mobile .footer-social-imagess {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .mobile .discord img {
+    height: 26px;
+  }
+  .mobile .footer-social-imagess img {
+    margin-top: 15px;
+    width: 91%;
+  }
+  .mobile .footer-social-imagess h1 {
+    text-align: center;
+    font-family: rajdhani;
+    color: #fff;
+    font-size: 35px;
+    font-weight: 600;
+    margin-top: 5px;
+  }
+  .dp-n {
+    display: none;
+  }
+  .mobile {
+    display: block;
+  }
+  .text-centerr {
+    text-align: center;
+  }
+  .carousel-item p.start_month {
+    margin: 0px 0;
+    font-size: 20px !important;
+    line-height: 30px;
+  }
+  .carousel-item.one,
+  .carousel-item.two,
+  .carousel-item.three,
+  .carousel-item.four {
+    background-position: 80%;
+  }
+  .hero.carousel-indicators li,
+  .hero .carousel-indicators li.active {
+    width: auto;
+  }
+  .home-slider .carousel-inner {
+    top: -114px;
+  }
+  .slide-1 img {
+    height: 63px !important;
+    top: -5% !important;
+  }
+  .slide-3 img {
+    top: 30% !important;
+  }
+  section.slider-section {
+    margin: 0px;
+  }
+
+    a.navbar-brand {
+        width: 50% !important;
+        padding-left: 15px;
+        margin-right: 0rem !important;
+    }
+    button.navbar-toggler {
+        margin-right: 0px;
+    }
+    ul.navbar-nav.class-apni.mr-auto {
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 100%;
+        height: fit-content;
+        justify-content: start;
+    }
+    ul.navbar-nav.class-apni li {
+        padding: 30px 0px;
+        border-bottom: solid 1px #ed4c14;
+    }
+    header.tapleto-headre .container-fluid {
+        padding: 0px;
+    }
+
+    a.nav-link {
+        color: #ffffff;
+        font-size: 18px !important;
+        line-height: 18px;
+        margin-left: 0px;
+        float: left;
+        padding-left: 0px;
+    }
+    .mobile-menu-right {
+        display: block !important;
+    }
+    @keyframes example {
+        0% {
+            top: 15px;
+            z-index: -1;
+        }
+        100% {
+            left: 0px;
+            top: 0px;
+        }
+    }
+    .carousel-indicators li.active {
+        background-color: #ec421c;
+        animation-name: example;
+        animation-duration: 1s;
+    }
+    section.hero-section {
+        padding: 130px 0px 130px 0px !important;
+    }
+    button.btn.btn-support {
+        display: none;
+    }
+    
+    .dropdown-toggle::after {
+        float: left;
+    }
+    .dropdown-menu-rrr {
+        left: -105px !important;
+        top: 32px !important;
+        width: 146px !important;
+    }
+    .mobile-navbar.collapse.show {
+        background: #0b0b0b;
+    }
+    .custom-dropdown-toggle {
+        margin-top: 12px;
+    }
+    img.country-en,
+    img.ar-flag {
+        right: 2px !important;
+        width: 25%;
+    }
+    img.header-flag {
+        top: 0px !important;
+        height: 24px !important;
+    }
+    section.home-slider {
+        margin-top: 0px;
+    }
+    .menu-right {
+        display: flex;
+        justify-content: start;
+        float: right;
+        width: 100%;
+        margin: 0;
+        padding: 0px 12px;
+        align-items: center;
+    }
+    .user-icon {
+        font-size: 30px;
+        color: #ffffff;
+        margin-right: 10px;
+    }
+    .mobile-navbar-custom .menu-right {
+        width: 100% !important;
+    }
+    .dsktop-navitem-cutom {
+        display: none;
+    }
+    .mobile-navbar-custom {
+        display: block !important;
+    }
+    .show .btn-login {
+        height: unset;
+        /* position: unset; */
+    }
+    .mobile-navbar {
+        padding: 0px;
+    }
+    #demo .hero.carousel-indicators li {
+        height: auto !important;
+    }
+    #demo .hero.carousel-indicators li.active {
+        height: 76px !important;
+        transform: translate3d(0, -1px, 0);
+        width: 76px !important;
+        object-fit: contain;
+    }
+    .btn-support {
+        padding: 0px;
+        margin: 0px;
+        border: 1px solid #e50019;
+        width: 120px;
+        height: 28px;
+        font-size: 13px !important;
+        position: unset;
+        background:transparent !important;
+    }
+    .class-apni {
+        padding-left: 15px;
+    }
+    button:focus {
+        outline: 0px dotted;
+        outline: 0px auto -webkit-focus-ring-color !important;
+    }
+    .btn-login {
+        padding: 0px;
+        margin: 0px;
+        border: 1px solid #e50019;
+        width: 79px;
+        height: 28px;
+        font-size: 13px !important;
+        /* position: unset; */
+    }
+    .dropdown-item {
+        font-size: 14px !important;
+        padding: 19px 18px !important;
+        display: flex;
+    }
+    a.dropdown-item .fa {
+        font-size: 20px !important;
+    }
+    img.header-flag {
+        padding: 0px;
+    }
+    ul.hero {
+        height: 76px !important;
+    }
+    .carousel-indicators img {
+        width: 60px;
+    }
+    .header-carousel {
+        flex-wrap: nowrap;
+    }
+    .social-icon-header.mobile.col-md-1 {
+        background: #ef4b13;
+        padding: 25px 0;
+    }
+    .why_choose_tapleto img {
+        display: block;
+        margin: auto;
+    }
+    .why_choose_tapleto h3,
+    p.reasons_why,
+    .hosting-suite p,
+    p.domain_search_description {
+        text-align: center;
+        font-size: 16px !important;
+        font-weight: 500;
+        padding-top: 0px !important;
+    }
+    .why_choose_tapleto .mt-5 {
+        margin-top: 1rem !important;
+    }
+    section.why_choose_tapleto {
+        padding: 50px 40px 0px 40px !important;
+    }
+    .game_servers {
+        padding: 50px 0px;
+        margin-top: 0px;
+    }
+   
+    .btn-plan,
+    .btn-learn-more {
+        width: 160px;
+        height: 45px;
+        padding: 0;
+        margin: auto;
+    }
+    .udp-parent-box:after {
+        width: 101.6% !important;
+        right: 1.6px !important;
+        top: 1.5px !important;
+    }
+    .col.game-udp-box {
+        margin: 5px !important;
+    }
+    .hosting-suite .col-md-4 {
+        padding-bottom: 20px;
+    }
+    .sec_form {
+        padding: 10px;
+    }
+    .card-one {
+        border: 1px solid #ec421c;
+        padding: 25px 19px !important;
+        text-align: left;
+    }
+    section.hosting-suite {
+        padding: 0px !important;
+    }
+    section.game_servers {
+        padding: 50px 0 !important;
+    }
+    .img_left {
+        text-align: unset !important;
+    }
+    img.game-server-plan {
+        padding: 0px;
+        border-radius: 1rem !important;
+        display: block;
+        margin: auto;
+    }
+    .view-more-btn {
+        margin-top: 0px;
+    }
+    
+   
+    .footer-payment-logo {
+        width: 81%;
+        display: block;
+        margin: auto;
+    }
+    .text-right {
+        text-align: center;
+    }
+    .slider-section-two .offset-2 {
+        margin-left: 0px;
+    }
+    .sec_form .offset-1 {
+        margin-left: 0px;
+    }
+    .game_servers h2,
+    .hosting-suite h2,
+    h2.perfect-domain,
+    .customer-say,
+    h2.why_choose {
+        font-size: 26px !important;
+        line-height: unset !important;
+    }
+    .why_choose_tapleto p {
+        font-size: 16px !important;
+        text-align: center;
+    }
+    h4.card_heading {
+        font-size: 20px !important;
+        text-align: center;
+        font-weight: 500;
+        margin: 0px;
+    }
+    .card-one img {
+        display: block;
+        /* margin: auto; */
+    }
+    .domain_search_main div span {
+        width: 100%;
+    }
+
+  footer.main_footer {
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px 0 0;
+  }
+  .carousel-indicators li.slide-1.active {
+    content: url("../images/pngkey.com-gta-png-831891-1.png");
+    align-items: end;
+  }
+  .carousel-indicators li.slide-2.active {
+    content: url("../images/pngkey.com-gta-san-andreas-logo-3408054-1.png");
+    align-items: end;
+  }
+  .carousel-indicators li.slide-3.active {
+    content: url("../images/pngkey.com-csgo-png-185642-1.png");
+    align-items: end;
+  }
+  .carousel-indicators li.slide-4.active {
+    content: url("../images/pngkey.com-minecraft-logo-png-177975-1-1.png");
+    align-items: end;
+  }
+  img
+  .logo {
+    width: 100%;
+  }
+
+  ul.footer_list li {
+    display: block;
+    text-align: center;
+    font-size: 16px !important;
+    line-height: 37px;
+    font-weight: 400;
+  }
+  h2.footer_heading {
+    text-align: center;
+    font-size: 18px !important;
+    line-height: 32px;
+    font-weight: 500;
+    margin-bottom: 0px;
+  }
+  .footer4 img {
+    margin: auto;
+    display: block;
+  }
+  .left-list {
+    width: 100%;
+    margin: 0px;
+  }
+  .right-list {
+    width: 100%;
+  }
+  ul.check_list li span {
+    line-height: 22px;
+    font-weight: 400;
+    padding-left: 0px;
+    font-size: 16px !important;
+  }
+  .rights_reserved {
+    font-size: 16px !important;
+    text-align: center;
+  }
+  .footer_list li img {
+    margin-right: 0px;
+  }
+  .desktop-slider {
+    display: none;
+  }
+  .mobile-slider {
+    display: block;
+  }
+  .hero.carousel-indicators li,
+  .hero .carousel-indicators li.active {
+    padding: 0px;
+  }
+  div#domain_con:after {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 98.1%;
+    right: -2px;
+    top: -0.5px;
+    margin: 0px !important;
+    background-image: linear-gradient(to top, transparent 25%, #ec421c 100%);
+    filter: blur(4px);
+  }
+  .container.terms-and-pricavy-pages-container .top-heading h2 {
+    font-size: 30px !important;
+    padding-bottom: 20px;
+  }
+  .container.terms-and-pricavy-pages-container .terms-of-service-description p {
+    font-size: 16px !important;
+    padding-bottom: 10px;
+  }
+  .container.terms-and-pricavy-pages-container h3.sub-heading {
+    font-size: 20px !important;
+    padding-bottom: 7px;
+  }
+  .container.terms-and-pricavy-pages-container {
+    padding: 30px 20px !important;
+  }
+  ul.terms-of-services-list li {
+    font-size: 18px !important;
+    font-weight: 500;
+  }
+  .dedicated-erver-apply-btn {
+    height: 52px;
+    font-size: 16px !important;
+    color: #fff;
+    margin-top: 25px !important;
+    width: 80% !important;
+    margin: auto;
+    display: block;
+  }
+
+  .what-we-offer.row {
+    flex-direction: column;
+  }
+  .what-we-offer img {
+    height: auto;
+    width: 40%;
+    margin: auto;
+  }
+  .bbb:before {
+    height: 100%;
+    width: 93%;
+    right: 16.5px;
+    top: 1.5px;
+    margin: -3px !important;
+  }
+  section.game-server p {
+    font-size: 16px !important;
+    text-align: center;
+  }
+  section.partner {
+    padding: 40px 0px;
+  }
+  .dedicated-server-why {
+    font-size: 20px !important;
+    padding-bottom: 10px;
+  }
+  .partner .partner-name {
+    font-size: 20px;
+  }
+  .custom-nav-tabs li a {
+    text-decoration: none;
+    font-size: 16px !important;
+    font-family: "Source Sans Pro";
+    color: #ffffff;
+    padding: 13px 46px;
+  }
+  
+ 
+ 
+  .monthly-box del {
+    font-size: 16px !important;
+    font-weight: 500;
+  }
+  .monthly-box p.saveprice{
+    font-size: 16px !important;
+    font-weight: 500;
+  }
+  .payment-method {
+    float: unset !important;
+  }
+  .highest-perform-server h2 {
+    font-size: 30px !important;
+    line-height: 42px;
+  }
+  /* ul.packges-box-check-list {
+    text-align: justify;
+    padding-left: -40px;
+    margin-left: 122px;
+  } */
+  h2.game-server.text-center,
+  h2.ddos-protection {
+    font-size: 22px !important;
+    font-weight: bold;
+  }
+  section.web-hosting-features p,
+  .click-app p {
+    font-size: 16px;
+    text-align: center;
+  }
+  section.web-hosting-features h3,
+  .click-app h3 {
+    font-size: 20px !important;
+  }
+  .click-app-content {
+    padding-top: 60px;
+  }
+  #hosting_laptop{
+    order: 2;
+  }
+  section.click-app {
+    padding: 90px 0px;
+  }
+  section.accordion-section {
+    padding-top: 0px;
+  }
+  section.accordion-section h2 {
+    font-size: 22px !important;
+    font-weight: 500;
+  }
+  .faq-title a {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  p.accordion-desc {
+    font-size: 18px;
+  }
+  .accordion-section .panel-default .panel-title a:after {
+    margin-top: -30px;
+  }
+  section.accordion-section {
+    padding-bottom: 50px;
+  }
+.custom-nav-tabs li a {
+    text-decoration: none;
+    font-size: 14px !important;
+    font-family: "Source Sans Pro";
+    color: #ffffff;
+    padding: 12px 23px !important;
+    align-items: center;
+    display: flex;
+}
+ul.nav.custom-nav-tabs {
+  width: 279px !important;
+  margin: 26px auto 0 auto;
+  background-color: #1d1d1d;
+  border-radius: 100px;
+}
+  section.hero-section {
+    padding: 150px 0px;
+    margin-top: -90px;
+    background-position: 35%;
+    background-size: cover;
+  }
+  ul.header-icon-text li {
+    font-size: 18px !important;
+    line-height: 36px;
+  }
+  .navbar-toggler {
+    padding: 0 !important;
+    padding-left: 7px !important;
+  }
+  .mobile ul.header-icon {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    padding: 0 20px !important;
+    margin-right: 0 !important;
+  }
+  .heaer-social-icon {
+    bottom: unset;
+    display: flex;
+  }
+  .bread-crumb {
+    margin-left: 19px;
+    padding-top: 25px;
+  }
+  .hero-tilte h2 {
+    font-size: 22px !important;
+    line-height: 30px;
+    margin-left: 0px;
+  }
+  .headre-row {
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+  ul.header-icon-text {
+    padding: 0px;
+  }
+  .hero-tilte {
+    margin-left: 0px;
+  }
+  .hero-tilte img {
+    margin-right: 17px;
+  }
+  /* ul.packges-box-check-list {
+    margin-left: 40px !important;
+    padding: 0px auto ;
+  } */
+  .monthly-box {
+    padding: 36px 0px;
+    margin-bottom: 20px;
+    /* height: 140vh; */
+  }
+  section.web-hosting-features {
+    padding-top: 120px;
+    text-align: center;
+  }
+  img.click-app-image {
+    width: 100%;
+    height: auto;
+    padding-top: 30px;
+  }
+  .row.click-app-cpanel-sec {
+    padding-bottom: 25px;
+  }
+
+  section.click-app {
+    padding: 10px 0px;
+  }
+  .payment-method {
+    float: unset;
+    text-align: center;
+  }
+  .tab-content.tab-content-box {
+    padding-top: 40px;
+  }
+  section.web-hosting-features {
+    padding-top: 20px;
+  }
+  ul.check_list li {
+    font-size: 16px !important;
+  }
+  .panel-default:after {
+    width: 102%;
+    right: 0.5px;
+  }
+  img.icon-circle-collection {
+    width: 80%;
+    display: block;
+    margin: auto;
+  }
+  /******************************game-server******************************/
+  .multi-theft-auto,
+  .minecraft,
+  .counter-strike,
+  .grand-theft {
+    /* background-position: center; */
+    background-position: top;
+  }
+  .game-content h4 {
+    font-size: 18px !important;
+    text-align: center;
+  }
+  .game-content p {
+    font-size: 16px !important;
+    text-align: center;
+  }
+  span.game-price {
+    font-size: 28px !important;
+  }
+  .game-order-btn {
+    margin-right: unset;
+    width: 60%;
+    height: 40px;
+    font-size: 16px !important;
+  }
+  section.all-games {
+    padding-top: 50px;
+  }
+  .game-tit-des {
+    float: unset;
+  }
+  h4.game-title {
+    float: unset;
+  }
+  .game-heading {
+    font-size: 36px !important;
+  }
+  .col-md-6.ddos-protection-content {
+    padding-top: 0px;
+  }
+  section.game-server .img-fluid {
+    margin: auto;
+    display: block;
+    padding-bottom: 10px;
+  }
+  /***************dedicated-server**********/
+  img.anti-ddos-imagefor-left-sec {
+    width: 100%;
+  }
+  .high-performance-game-content-row {
+    background-size: contain;
+  }
+  section.include-server img {
+    width: 12%;
+    height: auto;
+    padding-bottom: 20px;
+  }
+  section.anti-ddos-gaame-server .row {
+    flex-direction: row-reverse !important;
+  }
+  .dktop-sec {
+    display: none;
+  }
+  .mobile-sec {
+    display: block;
+  }
+  /**********************vps-hosting*******************/
+  img.image-eassy-to-use-control-panel {
+    width: 100%;
+    padding: 0px !important;
+  }
+    .row.game-content-row {
+        text-align: center;
+        padding-top: 20px;
+    }
+    .vps-hosting-serer-box-content {
+        padding-left: 0px;
+    }
+    .vps-order-btn {
+        margin-right: 0px !important;
+    }
+    .vps-tab-box {
+        margin-top: 0px !important;
+    }
+    .linux-conainer,
+    .window-conainer {
+        border-radius: 3px;
+    }
+    .linux-conainer {
+        margin-bottom: 15px;
+    }
+    .linux-conainer p,
+    .window-conainer p {
+        text-align: center !important;
+        font-size: 14px !important;
+    }
+    section.game-server.game-server-csgo-games {
+        padding-top: 50px;
+    }
+    .counter-strike-carousel {
+        padding: 20px 0px 20px 0px;
+    }
+    .carousel-right-side .heading {
+        font-size: 28px !important;
+        font-weight: 500;
+        text-align: center;
+    }
+    .carousel-right-side .description {
+        font-size: 16px !important;
+        text-align: center;
+    }
+    section.game-server.game-server-csgo-games .img-fluid {
+        display: block;
+        margin: auto;
+        padding-bottom: 10px;
+    }
+    button.open-game-panel {
+        margin: auto;
+        display: block;
+        font-size: 16px !important;
+    }
+    ul.easy-to-control-panel-right {
+        width: 61% !important;
+    }
+    ul.easy-to-control-panel-left li {
+        padding-left: 25px;
+        padding-bottom: 120px !important;
+    }
+    .eassy-to-use-control-panel {
+        padding-top: 50px;
+    }
+    section.ddos-protection-csgo-games {
+        padding: 60px 10px 0px 10px !important;
+    }
+    h3.ddos-protection {
+        font-size: 30px !important;
+        font-weight: 500;
+        text-align: center;
+    }
+    .ddos-protection p {
+        font-size: 16px !important;
+    }
+    p.opering-system-headin-bottom {
+        font-size: 16px !important;
+    }
+    .slider-section {
+        padding: 70px 10px 0px 10px !important;
+    }
+    .carousel-right-side .heading {
+        padding-bottom: 10px;
+    }
+    p.vps-list-des {
+        padding-bottom: 0px;
+    }
+    section.opertaing-system img {
+        display: flex;
+        margin: auto;
+        width: 30%;
+        padding-bottom: 31px;
+    }
+    section.opertaing-system .row {
+        display: flex;
+        flex-direction: column;
+    }
+    /*******web-hosting***********************/
+    section.web-hosting-features {
+        text-align: unset;
+    }
+    section.web-hosting-features h3 {
+        padding-top: 0px;
+    }
+    section.web-hosting-featurer {
+        padding: 100px 0px 0px 0px;
+    }
+    section.web-hosting-features h3 {
+        font-size: 20px !important;
+        font-weight: 600;
+        text-align: center;
+    }
+    section.web-hosting-features img {
+        display: block;
+        margin: auto;
+        padding-bottom: 10px;
+    }
+    img.click-app-image {
+        width: 100%;
+        height: auto;
+        display: block;
+        margin: auto;
+    }
+    section.game-server h3 {
+        text-align: center;
+        font-weight: 500 !important;
+        font-size: 20px !important;
+    }
+    .click-app-content strong {
+        font-weight: 300;
+    }
+    .vps-types {
+        padding-top: 12px;
+        display: block;
+        width: 77%;
+        justify-content: space-around;
+        float: none;
+        margin: auto;
+    }
+    /*****************become-a-partner************************/
+    .right-side-content img {
+        padding-left: 21px;
+    }
+    /*************games-pages**********************************/
+    .tab-left-side-sec {
+        padding-top: 0px;
+    }
+    .tab-left-side-sec {
+        padding: 0px !important;
+    }
+    .tab-content.tab-content-box {
+        margin-top: 140px;
+    }
+    .tab-left-side-sec h3 {
+        padding: 20px 0px 0px 0px !important;
+        font-size: 24px !important;
+        text-align: center;
+    }
+    .tab-left-side-sec p {
+        padding: 20px 0px 0px 0px !important;
+        font-size: 16px !important;
+        text-align: center;
+    }
+    .tab-left-side-sec img {
+        display: block;
+        margin: auto;
+    }
+    .box-inner-dropdown select {
+        font-size: 16px !important;
+    }
+    .carousel-two-right-side {
+        padding: 0px 15px 0px 15px;
+    }
+    .game-server-carousel {
+        padding: 20px 0px;
+    }
+    section.ddos-protection.ddos-protection-csgo-games img {
+        width: 90%;
+    }
+    .carousel-two-right-side .heading {
+        font-size: 26px !important;
+        font-weight: 500;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .carousel-two-right-side p {
+        font-size: 16px !important;
+        text-align: center;
+    }
+    h4.dedicated-game-title {
+        font-size: 22px !important;
+        font-weight: 500 !important;
+        padding-left: 22px;
+    }
+    h5.g-processor {
+        font-size: 16px;
+
+        font-weight: 600;
+        padding: 0px 0px 0px 25px;
+    }
+    .highest-performance-server-first-colum {
+        padding-left: 15px !important;
+    }
+    .bandwidth-colum {
+        padding-top: 0px;
+    }
+    .highest-performance-server-first-colum {
+        padding-left: 0px;
+    }
+    h4.highest-performance-server-price {
+        padding-left: 25px;
+        font-size: 22px !important;
+    }
+    .highest-performance-server-order-btn {
+        display: block;
+        margin: 26px;
+    }
+    .vps-hosting-serer-box-content {
+        padding-left: 0px !important;
+    }
+    .tab-content.tab-content-box {
+        margin-top: 0px;
+    }
+    .tab-left-side-sec {
+        padding: 0px !important;
+    }
+    .high-performance-game-content-row {
+        background-image: unset;
+    }
+    .dedicated-server-game-content {
+        border: solid 1px red;
+        margin-bottom: 20px;
+    }
+    .search-filter {
+        display: flex;
+        flex-direction: column;
+    }
+    .search-filter select,
+    .filter-bottom-sec select {
+        width: 100%;
+        font-size: 16px !important;
+    }
+    .filter-bottom-sec {
+        display: block;
+    }
+    .filter-bottom-sec p {
+        font-size: 16px;
+    }
+    .include-server-top-heading .offset-3 {
+        margin-left: 0px;
+    }
+    .include-server-top-heading .row {
+        flex-direction: column;
+    }
+    section.anti-ddos-gaame-server {
+        padding-top: 10px;
+    }
+    section.game-udp-protocol .offset-1 {
+        margin-left: 0% !important;
+    }
+    section.highest-perform-server {
+        padding-top: 50px !important;
+    }
+    .highest-perform-server h2 {
+        font-size: 26px !important;
+        font-weight: 600 !important;
+    }
+    .include-server-top-heading h2 {
+        font-size: 24px !important;
+        font-weight: 600 !important;
+    }
+    p.include-server-top-heading {
+        font-size: 16px !important;
+        font-weight: 500 !important;
+    }
+    h2.anti-ddos-heading {
+        font-size: 24px !important;
+        font-weight: 600 !important;
+    }
+    .anti-ddos-left-text-section h3,
+    .anti-ddos-right-text-section h3 {
+        font-size: 22px !important;
+        font-weight: 500 !important;
+    }
+    .anti-ddos-left-text-section p {
+        font-size: 16px !important;
+    }
+    section.game-udp-protocol {
+        padding-top: 0px;
+    }
+    h2.game-udp-protocol-heading {
+        font-family: "Rajdhani";
+        font-weight: 600 !important;
+        font-size: 24px !important;
+    }
+    .col.game-udp-box p {
+        font-size: 18px !important;
+        font-weight: 500 !important;
+        padding-left: 0px;
+    }
+    .anti-ddos-right-text-section p {
+        font-size: 16px !important;
+    }
+    section.voice-chat {
+        padding-top: 0px;
+    }
+    h2.voice-chat-heading {
+        font-weight: 600 !important;
+        font-size: 24px !important;
+    }
+    .udp-content p {
+        font-size: 18px !important;
+        font-weight: 500;
+    }
+    h2.include-all-server-heading {
+        font-size: 24px !important;
+        font-weight: 600;
+    }
+    section.include-all-server img {
+        display: block;
+        margin: auto;
+        padding-bottom: 10px;
+    }
+    .include-all-server h3 {
+        text-align: center;
+    }
+    .include-all-server p {
+        text-align: center;
+    }
+    /*******************************affilate-markert****************************************/
+    .earn-commision img {
+        margin: auto;
+        display: block;
+        padding-bottom: 15px;
+    }
+    section.earn-commision h3 {
+        color: #ffffff;
+        font-family: "Rajdhani";
+        font-size: 18px !important;
+        text-align: center;
+    }
+    section.earn-commision p {
+        font-size: 16px !important;
+        text-align: center;
+    }
+
+  .earn-commision-images img {
+    width: 16%;
+  }
+  .requirements-heading {
+    font-size: 24px !important;
+    font-weight: 700 !important;
+    text-align: center;
+  }
+  h4.requirements-heading-bottom-text {
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    text-align: center;
+    padding-bottom: 40px;
+  }
+  .become-an-affilate-sub-heading {
+    font-size: 16px !important;
+    font-weight: 500 !important;
+  }
+  .become-an-affilate-description {
+    font-size: 16px !important;
+    line-height: 24px;
+  }
+  .btn-join-today {
+    margin-bottom: 20px;
+    font-size: 16px !important;
+  }
+  .affilate-button .btn-join-today{
+    margin-bottom: 0px;
+  }
+  .btn-contact-us {
+    font-size: 16px !important;
+  }
+  .requirements img {
+    width: 90%;
+    display: block;
+    margin: auto;
+  }
+  /*************************************contact-us*****************************************/
+  .contact-content-parent-box {
+    margin-top: 20px;
+  }
+  .contact-sub-parent:before {
+    width: 94%;
+  }
+  p.support-name {
+    font-size: 18px !important;
+    font-weight: 600 !important;
+  }
+  p.support-description {
+    font-size: 16px !important;
+  }
+  .what-we-offer img {
+    width: 20%;
+  }
+  .container.contact-us {
+    width: 93%;
+  }
+}
+
+@media only screen and (min-device-width: 800px) {
+  .dropdown-menu{
+    left: -98px;
+  }
+  .domain_search_main{
+    /* margin-left: 3.2rem; */
+  }
+ .vps_link{
+  left: -60px !important;
+ }
+
+}
+@media (max-width: 300px) {
+  .class-apni {
+    width: 100%;
+  }
+}
+
+@media (max-width: 892px) {
+
+   .dropdwon-login {
+        margin-left: 0px;
+    }
+.btn-login{
+  display: none;
+}
+.flag-drop-down{
+  display: none !important;
+}
+.mobile_link{
+  margin-top: 2rem !important;
+}
+}
+
+@media (max-width: 414px){
+ .click-app{
+    padding: 150px 0px 0px 0px !important;
+  }
+  .custom-nav-tabs li {
+  font-size: 0rem;
+}
+.monthly-box{
+}
+}
+/****************************************************************************************************************macbook-*************************************************************************************************************************/
+
+
+@media only screen and (max-device-width: 1300px) {
+    .dropdwon-login {
+        margin-left: -34px;
+        left: -139px !important;
+    }
+  #navbarSupportedContent ul li {
+        padding-left: 15px ;
+    }
+    #navbarSupportedContent ul li.flag-drop-down {
+        padding-left: 5px !important;
+    }
+    .class-apni {
+        justify-content: space-between;
+    }
+    .navbar-brand {
+        margin: 0px;
+    }
+    .tab-left-side-sec h3{
+        padding: 40px 40px 0px 0px;
+    }
+    .tab-left-side-sec p{
+        padding: 40px 40px 0px 0px;
+    }
+    .fa,
+    .fas {
+        padding-right: 4px;
+    }
+    .btn-login {
+        width: 95px !important;
+        height: 35px;
+        font-size: 16px;
+        right: -20px;
+        margin: 0px;
+        right: 16px !important;
+        top: -39px;
+    }
+    .btn-support {
+        width: 119px ;
+        font-size: 14px !important;
+        right: 117px !important;
+        top: -39px !important;
+    }
+    img.header-flag {
+        /* position: relative; */
+        /* bottom: 0%; */
+        height: 35px;
+        /* top: -2px; */
+    }
+    .social-icon-header {
+        justify-content: space-around;
+    }
+    a.navbar-brand img {
+        width: 100%;
+    }
+    a.navbar-brand {
+        width: 14%;
+    }
+    a.nav-link {
+        font-size: 13px !important;
+        /*margin-left: 23px;*/
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        /* padding: 6px !important; */
+        white-space: nowrap;
+        /* width: 25%; */
+    }
+    .custom-dropdown-toggle {
+        margin-top: 11px;
+    }
+}
+
+/* dfsfdfdf */
+@media only screen and (max-device-width: 1920px){
+.logo {
+    width: 100% ;
+}
+}
+/****************************************************************************************************************laptop-*************************************************************************************************************************/
+@media screen and (max-width: 1900px){
+.logo{
+  width: 100%;
+}
+p.hosting-cat {
+    font-size: 24px ;
+    font-family: 'Rajdhani';
+    font-weight: bold;
+    color: #ffffff;
+}
+h3.price {
+    font-size: 24px ;
+    font-family: 'Rajdhani';
+    color: #ffffff;
+    font-weight: bold
+}
+}
+  @media screen and (min-width: 1900px){
+  .logo {
+    width: 90%;
+  }
+      .monthly-box-max{
+    max-height: 577px !important;
+  }
+
+  .getsupport-dropdown {
+    left: -24.2px !important;
+}
+
+}
+
+@media only screen and (min-device-width:1898px ){
+  .row.game-content-row{
+    padding-top: 30px;
+  }
+
+}
+@media only screen and (min-device-width: 1902px){
+.custom-nav-tabs li a {
+    padding: 13px 50px;
+}
+}
+
+@media only screen and (max-device-width: 1901px) {
+   
+  .btn-order{
+    font-size: 14px;
+  }
+  .btn-learn-more{
+    font-size: 14px
+  }
+
+  .class-apni {
+        justify-content: space-evenly;
+    }
+    .dropdown-item i.fa {
+        font-size: 15px;
+        padding-right: 5px;
+    }
+    .dropdown-menu-rrr {
+        left: -103px;
+        top: 40px;
+        right: 10px;
+    }
+    .custom-dropdown-toggle {
+        margin-top: 12px;
+    }
+    img.ar-flag {
+        width: 26%;
+        margin-right: 10px;
+    }
+    .show .btn-login {
+        height: 43px;
+    }
+    .dropdown-menu-rr {
+        top: 35px !important;
+    }
+   
+   
+    .btn-login {
+        right: 0;
+        bottom: 0%;
+    }
+    .btn-support,
+    .btn-login {
+        /* width: 140px; */
+        height: 37px;
+        font-size: 14px;
+        line-height: 10px;
+    }
+    #navbarSupportedContent ul li {
+        font-size: 15px;
+        white-space: nowrap;
+    }
+    .nav-item .nav-link {
+        color: #ffffff;
+        font-size: 18px;
+        line-height: 28px;
+        padding: 0px 0px !important;
+    }
+    li.slide-4 img {
+        top: 0% !important;
+    }
+    li.slide-3 img {
+        top: 27% !important;
+    }
+    section.web-hosting-features h3 {
+        color: #ffffff;
+        font-family: "Rajdhani";
+        font-size: 24px;
+        font-weight: 500;
+    }
+    .card-one {
+        padding: 30px 50px;
+        min-height: 487px;
+    }
+    .main_footer .row.top .col-lg-3 {
+        padding: 0px 35px;
+    }
+    .footer_list li img {
+        margin-right: 9px;
+    }
+    ul.footer_list li {
+        line-height: 33px;
+        font-size: 18px;
+    }
+    .nav-item .nav-link {
+        padding: 0px;
+    }
+    .carousel-item p.start_month {
+        font-size: 20px;
+        margin: 10px 0;
+        font-family: "Poppins";
+    }
+    
+    ul.header-icon li {
+        list-style: none;
+        padding-top: 10px;
+    }
+  
+    #demo .hero.carousel-indicators li.active {
+        width: 145px;
+        /* width: 100%; */
+        height: 141px;
+    }
+    ul.hero {
+        height: 95px;
+    }
+    .navbar-brand {
+        width: 14%;
+    }
+    img.header-flag {
+        top: -2px !important;
+        position: relative;
+        height: 37px;
+        padding: 0px;
+    }
+      h2.why_choose,
+      .game_servers h2,
+      .hosting-suite h2,
+      h2.perfect-domain,
+      .customer-say {
+        font-size: 36px;
+        line-height: 30px;
+    }
+    section.why_choose_tapleto {
+        padding: 100px 50px 600px 50px;
+    }
+    .why_choose_tapleto h3 {
+        font-size: 22px;
+        line-height: 20px;
+    }
+    .game_servers {
+        padding: 10px 0px;
+    }
+    .view-more-btn {
+        margin-top: 28px;
+    }
+    h4.card_heading {
+        font-size: 21px;
+        font-weight: 600 !important;
+        line-height: 22px;
+        margin: 0px 0;
+    }
+    p.subheading {
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 13px;
+    }
+    p.desc,
+    p.domain_search_description,
+    .customer_desc {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    ul.check_list li span {
+        font-size: 18px;
+        padding-left: 0px;
+    }
+    .domain_input,
+    .btn-search {
+        font-size: 14 px;
+        height: 54px;
+    }
+    section.hosting-suite,
+    .sec_form {
+        padding: 50px 0px;
+    }
+    .cus_name h3 {
+        font-size: 20px;
+    }
+    h2.footer_heading {
+        font-size: 22px;
+        font-weight: 500;
+        margin-bottom: 0px;
+    }
+    .dropdown-item i.fa {
+        padding-right: 10px;
+        font-size: 22px;
+    }
+    .accordion-section .panel-default .panel-title a:after {
+        margin-top: -29px;
+    }
+
+  section.game-server p {
+    font-size: 16px;
+  }
+  section.partner {
+    padding: 40px 0px;
+  }
+  .dedicated-server-why {
+    font-size: 20px;
+    padding-bottom: 10px;
+  }
+  .partner .partner-name {
+    font-size: 20px;
+  }
+  
+
+
+
+
+  h2.game-server.text-center,
+  h2.ddos-protection {
+    font-size: 30px;
+    font-weight: 600;
+  }
+  section.web-hosting-features p,
+  .click-app p {
+    font-size: 18px;
+  }
+  .click-app h3 {
+    font-size: 18px;
+    padding-top: 28px;
+  }
+  section.accordion-section {
+    padding-top: 80px;
+  }
+  section.accordion-section h2 {
+    font-size: 24px;
+    font-weight: 600;
+  }
+  .faq-title a {
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .panel-default:after {
+    height: 60%;
+  }
+  p.accordion-desc {
+    font-size: 16px;
+  }
+  .accordion-section .panel-default .panel-title a:after {
+    margin-top: -30px;
+  }
+  section.accordion-section {
+    padding-bottom: 50px;
+  }
+
+
+  @media screen and (min-width: 2560px){
+    section.hero-section{
+      max-width: 50px;
+    }
+  }
+
+  section.hero-section {
+    padding: 170px 0px 170px 30px;
+    margin-top: -81px;
+    background-size: cover;
+  }
+  ul.header-icon-text li {
+    font-size: 18px;
+    line-height: 36px;
+  }
+  .bread-crumb {
+    margin-left: 0px;
+    padding-top: 25px;
+  }
+  .hero-tilte h2 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .headre-row {
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+  ul.header-icon-text {
+    padding: 0px;
+  }
+  .hero-tilte {
+    margin-left: 0px;
+  }
+
+  .monthly-box {
+    padding: 36px 0px;
+    margin-bottom: 20px;
+        height: auto;
+  }
+  .multi-theft-auto,
+  .minecraft,
+  .counter-strike,
+  .grand-theft {
+    background-size: cover;
+  }
+  .payment-method {
+    text-align: center;
+  }
+  .tab-content.tab-content-box {
+    padding-top: 40px;
+  }
+  ul.check_list li {
+    font-size: 16px;
+  }
+  a.nav-link {
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 18px;
+    margin-left: 0px;
+  }
+
+  .click-app-content {
+    padding-top: 0px;
+  }
+  .minicraft-slider {
+    padding: 0px;
+  }
+
+  
+  /****************************************dedicated-server************************************/
+  section.highest-perform-server {
+    padding-top: 100px;
+  }
+  .highest-perform-server h2 {
+    font-size: 36px;
+  }
+  .search-filter {
+    text-align: center;
+    background-color: #1d1d1d;
+  }
+  .search-filter select,
+  .filter-bottom-sec select {
+    font-size: 18px;
+  }
+  .search-filter span {
+    font-size: 18px;
+  }
+  .filters-fields-top {
+    margin: auto;
+  }
+  .filter-bottom-sec {
+    justify-content: space-around;
+  }
+
+    .filter-bottom-sec p {
+        font-size: 20px;
+        font-family: "Rajdhani";
+        color: #dcdcdc;
+    }
+    .dedicated-server-list {
+        background-image: url("../images/Group 2388.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .dedicated-server-list {
+        background-image: url("../images/Group 2388.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-bottom: 50px;
+    }
+    h4.dedicated-game-title,
+    h4.highest-performance-server-price {
+        font-size: 30px;
+        font-weight: bold;
+        font-family: "Rajdhani";
+        color: #ffffff;
+    }
+    h5.g-processor {
+        font-size: 20px;
+        font-family: "Rajdhani";
+        font-weight: bold;
+        color: #ffffff;
+    }
+    span.game-spec-detail {
+        color: #dcdcdc;
+        font-family: "Rajdhani";
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .highest-performance-server-order-btn {
+        height: 49px;
+        background: linear-gradient(#e50019, #f57710);
+        font-size: 18px;
+        line-height: 25px;
+        color: #fff;
+        font-family: "Source Sans Pro";
+        border-radius: 0px;
+        border: 0px;
+        margin-top: 14px !important;
+    }
+    .row.game-content-row {
+        padding-top: 30px;
+    }
+    .highest-performance-server-first-colum {
+        padding-left: 75px;
+    }
+    .include-server-top-heading h2 {
+        font-weight: 600;
+        font-size: 30px;
+        padding-bottom: 40px;
+        padding-top: 50px;
+    }
+    p.include-server-top-heading {
+        padding-top: 15px;
+    }
+    section.include-server img {
+        display: block;
+        margin: auto;
+        height: 75px;
+    }
+    .optional-server-heading {
+        font-family: "Rajdhani";
+        font-weight: bold;
+        font-size: 30px;
+        color: #ffffff;
+        text-align: center;
+        padding-bottom: 40px;
+        padding-top: 30px;
+    }
+    section.include-server {
+        padding-top: 50px;
+    }
+    h2.anti-ddos-heading {
+        font-weight: 600;
+    }
+    section.anti-ddos-gaame-server {
+        padding-top: 100px;
+    }
+    .anti-ddos-left-text-section h3 {
+        font-weight: 600;
+    }
+    .anti-ddos-right-text-section h3 {
+        font-weight: 600;
+    }
+    .anti-ddos-right-text-section p {
+        font-size: 18px;
+        font-family: "Rajdhani";
+        color: #dcdcdc;
+    }
+    img.anti-ddos-imagefor-right-sec,
+    img.anti-ddos-leftt-text-section {
+        width: 100%;
+    }
+    .anti-ddos-right-text-section {
+        padding-top: 140px;
+    }
+    img.anti-ddos-imagefor-left-sec {
+        padding-top: 40px;
+    }
+    h2.game-udp-protocol-heading {
+        font-weight: 600;
+    }
+    .col.game-udp-box p {
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .col.game-udp-box {
+        position: relative;
+        background: #0b0b0b;
+        margin: 10px;
+    }
+    section.game-udp-protocol .row {
+        padding-bottom: 20px;
+    }
+    section.game-udp-protocol {
+        padding-top: 100px;
+    }
+    h2.voice-chat-heading {
+        font-weight: 600;
+    }
+    .udp-parent-box:after {
+        width: 101.6%;
+        right: 0.6px;
+        top: 1.5px;
+    }
+    .udp-parent {
+        position: relative;
+        background: #0b0b0b;
+        margin: 10px;
+    }
+    .udp-content:after {
+        content: "";
+        position: absolute;
+        height: 115%;
+        width: 101.3%;
+        right: 0.9px;
+        top: 1.5px;
+        margin: -3px !important;
+        z-index: -1 !important;
+        background-image: linear-gradient(to top, transparent 25%, #ec421c 100%);
+        filter: blur(1px);
+    }
+    .udp-content p {
+        font-size: 18px;
+        font-weight: 600;
+    }
+    h2.include-all-server-heading {
+        font-weight: 600;
+    }
+    .include-all-server h3 {
+        font-size: 22px;
+        font-family: "Rajdhani";
+        font-weight: 500;
+        color: #ffffff;
+    }
+    .include-all-server p {
+        font-size: 18px;
+        font-family: "Rajdhani";
+        color: #dcdcdc;
+    }
+    section.voice-chat {
+        padding-top: 60px;
+    }
+    section.include-all-server {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    section.highest-performnce-server {
+        padding-top: 53px;
+    }
+    /***************************************************vps-hosting******************************/
+    .vps-hosting-serer-box-content {
+        padding-left: 61px;
+    }
+    h5.vps-title {
+        font-size: 24px;
+        font-family: "Rajdhani";
+        font-weight: 600;
+        color: #ffffff;
+        margin-bottom: 0px;
+    }
+    p.vps-detail {
+        font-size: 18px;
+        font-family: "Rajdhani";
+        color: #dcdcdc;
+    }
+    .vps-price {
+        font-size: 40px;
+        font-weight: 700;
+        font-family: "Rajdhani";
+        color: #ffffff;
+    }
+    span.price-per-month {
+        font-size: 18px;
+    }
+    .vps-order-btn {
+        height: 43px;
+        background: linear-gradient(#e50019, #f57710);
+        font-size: 16px;
+        line-height: 25px;
+        color: #fff;
+        margin-right: 33px;
+        font-family: "Source Sans Pro";
+        border-radius: 0px;
+        border: 0px;
+        width: 57%;
+    }
+    .dedicated-server-game-content {
+        padding-bottom: 40px;
+    }
+   
+    h2.operting-system-heading {
+        font-weight: 600;
+    }
+    p.opering-system-headin-bottom {
+        font-size: 18px;
+        font-family: "Rajdhani";
+        color: #dcdcdc;
+        text-align: center;
+        padding-bottom: 60px;
+    }
+    section.opertaing-system img {
+        display: block;
+        margin: auto;
+    }
+    section.opertaing-system {
+        padding-top: 100px;
+    }
+    h2.easytouse-heading {
+        font-weight: 600;
+    }
+    p.easytouse-description {
+        font-size: 18px;
+        font-family: "Rajdhani";
+        color: #dcdcdc;
+        text-align: center;
+        padding-bottom: 60px;
+    }
+    section.eassy-to-use-control-panel {
+        padding-top: 100px;
+    }
+    ul.easy-to-control-panel-left {
+        width: 10%;
+    }
+
+  ul.easy-to-control-panel-right {
+    width: 87%;
+  }
+  span.vps-list-heading {
+    font-weight: 600;
+  }
+  p.vps-list-des {
+    color: #dcdcdc;
+    font-size: 16px;
+    font-family: "Rajdhani";
+    padding-bottom: 40px;
+  }
+  ul.easy-to-control-panel-left li {
+    padding-bottom: 57px;
+  }
+
+  /****************accepptable-user-ploicy**********/
+  .top-heading h2 {
+    font-size: 36px;
+    padding-bottom: 18px;
+  }
+  .terms-of-service-description p {
+    font-size: 18px;
+    font-family: "Rajdhani";
+    line-height: 26px;
+    padding-bottom: 8px;
+  }
+  h3.sub-heading {
+    font-size: 26px;
+    font-weight: 600;
+    padding-bottom: 5px;
+  }
+  .terms-and-pricavy-pages-container {
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 50px !important;
+    background-image: url(../images/Mask-Group-3.webp);
+    background-position: 139% 125%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  /**game-server******************************/
+  section.all-games {
+    padding-top: 100px;
+  }
+  .game-heading {
+    font-size: 36px;
+    padding-bottom: 0px;
+  }
+  span.game-price {
+    font-size: 50px;
+  }
+  .game-content h4 {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .game-content {
+    padding: 35px 30px 48px 60px;
+    text-align: center;
+  }
+  .game-order-btn {
+    height: 55px;
+    margin-top: 0px !important;
+  }
+  section.game-server h3 {
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 16px;
+  }
+  section.game-server {
+    padding-top: 50px;
+    padding: 50px 50px 0px 50px;
+  }
+  h3.ddos-protection {
+    font-size: 26px;
+    font-weight: 600;
+    font-family: "Rajdhani";
+    padding-bottom: 0px;
+    padding-top: 24px;
+  }
+  .ddos-protection p {
+    font-size: 18px;
+  }
+  section.ddos-protection {
+    padding: 100px 50px 0px 51px;
+  }
+  /********VPS-HOSTING****************/
+  ul.nav.custom-nav-tabs {
+    width: 100%;
+    max-width: 480px;
+  }
+  .carousel-right-side .heading,
+  .carousel-two-right-side .heading {
+    font-size: 26px;
+    font-weight: 600;
+    padding-bottom: 5px;
+  }
+  .carousel-right-side .description {
+    font-size: 18px;
+  }
+  .slider-section {
+    padding: 100px 50px 0px 50px;
+  }
+  img.image-eassy-to-use-control-panel {
+    padding-left: 50px;
+    width: 100%;
+  }
+  .col-md-6.eassy-to-use-control-panel {
+    padding-left: 50px;
+  }
+  img.ddos-protection-images {
+    width: 90%;
+  }
+  /*****************our-partner*************/
+  .dedicated-erver-apply-btn {
+    width: 20%;
+  }
+  .bbb:before {
+    width: 94.3%;
+    right: 16px;
+  }
+
+  /****************multi-theft-auto**********/
+  .tab-left-side-sec {
+    padding: 100px 0px 0px 100px;
+  }
+  /*****************web-hosting*******************/
+  .web-hosting-clickapp {
+    padding: 19px 50px 0px 100px;
+  }
+  img.click-app-image.aos-init.aos-animate {
+    width: 90%;
+  }
+  section.click-app {
+    padding: 150px 0px 0px 0px;
+  }
+  /************************************affilate-programme*************************/
+  section.earn-12per-commision p {
+    font-size: 18px;
+    color: #ffffff;
+  }
+  .requirements-heading {
+    font-size: 30px;
+    font-weight: 600;
+  }
+  h4.requirements-heading-bottom-text {
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 30px;
+  }
+  ul.requirements-list li {
+    line-height: 46px;
+  }
+  .become-an-affilate-sub-heading {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .requirements-content {
+    padding-left: 50px;
+    padding-top: 50px;
+  }
+  /******************************************************contact-us**************************************/
+  .container.contact-us .row {
+    margin: 0px !important;
+  }
+  .container.contact-us {
+    max-width: 1423px !important;
+  }
+}
+
+@media only screen and (min-device-width: 900px) and(max-device-width: 1440px){
+    .first-card{
+    padding-bottom: 1.7rem;
+    height: auto;
+  }
+    #gold{
+  height: 60vh;
+}
+}
+@media only screen and (max-device-width: 812px){
+  .monthly-box {
+  padding: 36px 10px;
+  margin-bottom: 20px;
+  /* min-height: 29vh !important; */
+}
+/* ul.packges-box-check-list{
+  margin-left: 0px ;
+} */
+
+}
+
+  @media only screen and (max-device-width: 1280px){
+
+
+
+.carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 15;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 15%;
+    list-style: none;
+}
+}
+
+/**********************************************************************************for-tablet********************************************/
+@media only screen and (min-device-width: 1080px) and (max-device-width: 1920px) {
+  .home-slider .carousel-inner {
+    top: -98px;
+  }
+
+  .filter-bottom-sec {
+  justify-content: space-around;
+}
+}
+@media only screen and (min-device-width: 1280px){
+
+  .miniStone{
+    max-height: 100vh;
+  }
+
+}
+@media only screen and (min-device-width: 1280px){
+  .monthly-box-max{
+    max-height: 470px;
+  }
+
+}
+  /* ***************600 to 960******************** */
+  @media only screen and (min-device-width: 600px)and (max-device-width: 960px){
+   .monthly-background {
+  background-image: url(../images/Group-2811-2.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 1;
+  filter: brightness(100%) contrast(100%) saturate(0%) blur(0px) hue-rotate(0deg);
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+  background-size: cover;
+}
+/* ul.packges-box-check-list {
+  margin-left: 125px;
+} */
+
+  }
+  @media only screen and (min-device-width: 1000px) and (max-device-width: 1150px) {
+    /* .menu-right {
+      width: 46%;
+    } */
+    .btn-login{
+      margin: 0 5px !important;
+    }
+    a.navbar-brand{
+        display: block;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 1100px) {
+  .why_choose_tapleto .col-md-4 {
+    flex: 0 0 49.333333%;
+    max-width: 49.333333%;
+  }
+  .game_servers .row {
+    justify-content: center !important;
+  }
+
+  .footer4 img {
+    margin: unset;
+    display: block;
+  }
+  .game_servers .offset-md-2 {
+    margin-left: 0px !important;
+  }
+  .parentdiv {
+    position: relative;
+    padding: 0;
+    flex: 0 0 22% !important;
+    max-width: 23%;
+  }
+  section.slider-section-two.desktop-slider {
+    display: none;
+  }
+  section.slider-section-two.mobile-slider {
+    display: block;
+  }
+  section.slider-section-two.mobile-slider .col-lg-5 {
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 86.666667%;
+    max-width: 86.666667%;
+  }
+  .main_footer .row.top .col-lg-3 {
+    width: 50%;
+  }
+  .footer_R_desc {
+    text-align: unset !important;
+  }
+  h2.footer_heading {
+    text-align: justify;
+  }
+  ul.footer_list li {
+    text-align: justify;
+  }
+  .sec_form .col-md-10 {
+    /* flex: 0 0 93%; */
+    max-width: 93%;
+    margin: auto;
+  }
+  .mobile .footer-social-imagess img {
+    width: 47%;
+  }
+  .mobile-slider .col-lg-8 {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  a.navbar-brand {
+    width: 52%;
+  }
+  a.navbar-brand img {
+    width: 55%;
+  }
+  .mobile .footer-social-imagess img {
+    width: 47%;
+  }
+  ul.navbar-nav.class-apni.mr-auto {
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+    height: fit-content;
+    justify-content: start;
+  }
+  ul.navbar-nav.class-apni li {
+    padding: 30px 0px;
+    border-bottom: solid 1px #ed4c14;
+  }
+  .mobile-navbar-custom {
+    display: block !important;
+  }
+  .user-icon {
+    font-size: 30px;
+    color: #ffffff;
+    margin-right: 10px;
+  }
+  .menu-right {
+    width: 100%;
+  }
+  .mobile-navbar {
+    justify-content: space-around;
+  }
+}
+
+@media only screen and (min-width: 2700px) and (max-width: 3000px) {
+  .carousel-item.one,
+  .carousel-item.two,
+  .carousel-item.three,
+  .carousel-item.four {
+    padding: 470px 0px 470px 0px;
+  }
+}
+@media only screen and (min-width: 1500px) and (max-width: 1600px) {
+  .carousel-item.one,
+  .carousel-item.two,
+  .carousel-item.three,
+  .carousel-item.four {
+    padding: 190px 0px 190px 0px;
+  }
+}
+@media only screen and (min-width: 1600px) and (max-width: 1800px) {
+  .carousel-item.one,
+  .carousel-item.two,
+  .carousel-item.three,
+  .carousel-item.four {
+    padding: 235px 0px 235px 0px;
+  }
+}
+@media only screen and (min-width: 1800px) and (max-width: 2000px) {
+  .carousel-item.one,
+  .carousel-item.two,
+  .carousel-item.three,
+  .carousel-item.four {
+    padding: 260px 0px 260px 0px;
+  }
+}
+
+@media only screen and (min-width: 2040px) and (max-width: 2700px) {
+  .carousel-item.one,
+  .carousel-item.two,
+  .carousel-item.three,
+  .carousel-item.four {
+    padding: 310px 0px 310px 0px;
+  }
+  .dropdown-menu-rrr {
+    top: 43px;
+  }
+}
+
+@media only screen and(max-width: 1913){
+  .logo{
+    width: 100%;
+  }
+}
+
+@media only screen  and (min-width: 992px) and (max-width: 1035px){
+ 
+  .logo{
+        width: 110% !important
+    }
+ li.nav-item.nav-item-custom-cls.dropdown:hover .dropdown-menu {
+  display: block; 
+} 
+ .dropdown-menu-animation {
+  min-width: 100%;
+  padding: 0px;
+  display: block !important;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(20%);
+  transition: all 0.5s;
+}
+#navbarSupportedContent ul li{
+  padding-left: 0px !important;
+}
+ 
+.dropdown-menu {
+    display: block !important;
+    opacity: 0;
+    visibility: visible;
+    transform: translateY(0%);
+    transition: all 0.5s;
+  } 
+   .dropdown-menu-animation {
+  min-width: 100%;
+  padding: 0px;
+  display: none !important;
+  opacity: 0;
+  /* visibility: hidden; */
+} 
+ li.nav-item.nav-item-custom-cls.dropdown:hover .dropdown-menu-animation {
+  opacity: 1;
+  display: block !important;
+  visibility: visible;
+  transform: translateY(0%);
+} 
+}
+
+
+@media only screen and (max-device-width: 1400px) {
+    .btn-login{
+        margin: 0 10px;
+    }
+    .nav-item .nav-link{
+        padding: 0px 4px !important;
+    }
+    /* .btn-support, .btn-login{
+        width: 135px;
+    } */
+}
+@media only screen and (min-device-width: 1170px) {
+  .getsupport-dropdown{
+     left: -97.2px !important;
+     margin-left: 0%;
+  }
+}
+@media only screen and (min-device-width: 1300px)and (max-device-width: 1899px) {
+  .getsupport-dropdown{
+      left:-31.1px !important;
+      /* margin-left: 0.3rem; */
+  }
+  @media only screen and (min-device-width: 1300px)and (max-device-width: 1411px){
+    .getsupport-dropdown{
+      margin-left: 0rem;
+  }
+  }
+}
+
+@media only screen and (min-device-width: 1401px) {
+ /* .nav-item .nav-link{
+  margin: 1px;
+ } */
+}
+@media only screen and (max-device-width: 1400px) {
+    .btn-login{
+        margin: 0 5px;
+    }
+}
+
+/* Extra small devices */
+@media (max-width: 500px) {
+  .custom-nav-tabs li a {
+    padding: 13px 30px;
+  }
+  /* helper class  */
+.mb-none{
+    display: none;
+  }
+}
+@media (min-width: 1300px) {
+  .dropdown-menu{
+    left: -138px;
+  }
+  .vps_link{
+    left: -53px!important;
+  }
+  
+}
+@media screen and (min-device-width: 1300px)and (max-device-width: 1401px){
+    .apni_login{
+      margin-left: -0.4rem !important;
+    }
+  }
+ 
+  @media only screen and (min-width: 1902px){
+    .getsupport-dropdown {
+    left: -85.2px !important;
+        margin-left: 3.5rem;
+}
+
+  ul.nav.custom-nav-tabs{
+    align-items: start
+  }
+  .btn-order{
+    width: 190px;
+  }
+  .tab-content.tab-content-box {
+    padding-top: 40px;
+}
+.tab-left-side-sec {
+    padding: 100px 0px 0px 100px;
+}
+
+ul.check_list li span {
+    font-size: 18px;
+    padding-left: 0px;
+}
+.monthly-box p.saveprice {
+    font-size: 16px !important;
+    font-weight: 500;
+}
+
+
+.saveprice {
+      font-size: 20px;
+    font-family: 'Rajdhani';
+    font-weight: bold;
+    color: #ffffff;
+}
+
+  }
+   @media only screen and (max-device-width: 692px){
+  .highest-performance-server-order-btn{
+    width: 60%;
+  }
+
+   }
+    @media only screen and (min-device-width: 692px)and (max-device-width: 1025px){
+      .highest-performance-server-order-btn{
+    width: 100% !important;
+  }
+ 
+    }
+    @media only screen and (min-device-width: 1026px){
+      .highest-performance-server-order-btn{
+        margin-left: 2rem;
+        width: 62%;
+      }
+   
+    }
+     @media only screen and (min-device-width: 892px){
+.footer_image {
+    width: 99%;
+}
+     }
+ 
+@media only screen and (max-device-width: 1900px){
+.monthly-content,
+.hosting-cat {
+    font-size: 16px;
+    font-family: 'Rajdhani';
+    font-weight: bold;
+    color: #ffffff;
+  }
+        .monthly-content ,
+        .price {
+      font-size: 24px !important;
+      font-family: 'Rajdhani';
+      color: #ffffff;
+      font-weight: bold;
+    }
+        p.hosting-cat {
+          font-size: 16px;
+          font-weight: 500;
+        }
+}
+@media only screen and (min-device-width: 893px){
+.game-order-btn {
+    width: 100%;
+  }
+}
+ @media only screen and (min-device-width: 800px)and (max-device-width:892px) {
+  .game-order-btn{
+    margin-left: -30px;
+  }
+ }
